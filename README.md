@@ -48,7 +48,7 @@ This project explores:
 - comparison with analytical expectations (Bessel functions, symmetry considerations)
 
 
-🔗 Repository: https://github.com/ThomasFRZK/WaveOnDisk
+🔗 Repository: https://github.com/ThomasFRZK/WaveOnDisk-MATLAB
 
 **Tools & concepts**:  
 MATLAB · Python · finite differences · PDEs · wave physics · numerical stability
