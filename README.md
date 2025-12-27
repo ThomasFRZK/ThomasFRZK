@@ -24,7 +24,7 @@ I am particularly interested in environments where **theoretical understanding a
 
 ---
 
-## 🔬 What I enjoy working on
+## 👨‍🚀 What I enjoy working on
 
 - Fundamental quantum physics and formalism  
 - Quantum Computation  
@@ -36,7 +36,7 @@ I do not approach physics as a checklist of skills, but as a **long-term intelle
 
 ---
 
-## 🧪 Selected project
+## Selected project
 
 ### 🌊 Wave propagation on a disk — *WaveOnDisk*
 Numerical simulation of wave propagation on a circular domain using finite difference methods.
@@ -47,9 +47,8 @@ This project explores:
 - dispersion, phase shifts and numerical artifacts
 - comparison with analytical expectations (Bessel functions, symmetry considerations)
 
-The goal was not performance, but **physical fidelity and understanding**.
 
-🔗 Repository: https://github.com/TON_USERNAME/WaveOnDisk
+🔗 Repository: https://github.com/ThomasFRZK/WaveOnDisk
 
 **Tools & concepts**:  
 MATLAB · Python · finite differences · PDEs · wave physics · numerical stability
@@ -88,7 +87,7 @@ with a long-term goal of pursuing a **PhD**, then contributing to research or ad
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/TON_USERNAME
+- GitHub: https://github.com/ThomasFRZK
 - LinkedIn : https://www.linkedin.com/in/thomas-frydryszak/
 - eMail : thomas.frydryszak@etu.unistra.fr
 
