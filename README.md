@@ -1,38 +1,19 @@
-# 👋 Hi, I'm Thomas
+# Hello, I'm Thomas ! 
 
-I am a physics-driven engineering student deeply passionate about **fundamental physics**,  
-with a strong attraction to **quantum theory, quantum electrodynamics (QED)** and the way abstract models
-become concrete through **mathematics and numerical simulations**.
+Welcome on my GitHub! Here I share some of my personal projects related to physics and programing. 
 
-I enjoy taking the time to understand physical phenomena from first principles,  
-then translating them into code to explore their behavior beyond analytical limits.
+## Introduction 🌱
 
----
-
-## 🧠 Background & mindset
-
-🎓 I am currently a 2nd year engineering student at Telecom Physique Strasbourg!
--> I also follow a specific formation for my double-degree program : the Master's degree of Quantum Technologies, European Program with the University of Strasbourg.
-
-My academic interests naturally gravitate toward:
-- fundamental quantum mechanics
-- quantum field theory & QED
-- mathematical structures underlying physical theories
-- numerical approaches as a bridge between theory and reality
-
-I am particularly interested in environments where **theoretical understanding and practical work** interact.
+My name is Thomas, I am a french engineering student, deeply passionate with fundamental physics and quantum theories. Currently following a specialisation in quantum sciences and technologies, I aim to work in meaningful fields of R\&D related to quantum technologies. 
 
 ---
-
-## 👨‍🚀 What I enjoy working on
+## What I enjoy working on ✨
 
 - Fundamental quantum physics and formalism  
 - Quantum Computation  
 - Analytic problems related to physics  
 - Numerical simulation of physical equations  
 - Understanding limitations, stability and artifacts of numerical schemes  
-
-I do not approach physics as a checklist of skills, but as a **long-term intellectual pursuit**.
 
 ---
 
@@ -51,43 +32,34 @@ This project explores:
 🔗 Repository: https://github.com/ThomasFRZK/WaveOnDisk-MATLAB
 
 **Tools & concepts**:  
-MATLAB · Python · finite differences · PDEs · wave physics · numerical stability
+MATLAB · finite differences · PDEs · wave physics · numerical stability
 
 ---
 
-## 🧰 Technical landscape
+
+## Skills 🎯 
 
 ### Programming
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/comsol/comsol-original.svg" width="40"/>
 
-I primarily use **Python and MATLAB** for physics and simulations,  
+I primarily use **Python, COMSOL and MATLAB** for physics and simulations,  
 and I am comfortable working in **C / C++** when closer control is needed.
 
 ---
 
-## 📚 Currently exploring
+## Contact ✉️
 
-- Advanced quantum mechanics (spin technologies, quantum systems of atoms and light, etc.)
-- Foundations of quantum field theory and QED
-- Numerical methods applied to physical systems
-- Quantum computing from a **physics-first perspective**
+Do not hesitate to reach out for any exchange or project proposal! 💼
 
-
----
-
-## 🌍 Looking ahead
-
-I am open to **research-oriented internships and R&D environments**  
-(UK, also Germany, Sweden, Netherlands),  
-with a long-term goal of pursuing a **PhD**, then contributing to research or advanced R&D in quantum science.
-
----
-
-## 📫 Contact
 - GitHub: https://github.com/ThomasFRZK
 - LinkedIn : https://www.linkedin.com/in/thomas-frydryszak/
 - eMail : thomas.frydryszak@etu.unistra.fr
+---
+
+
+
 
